@@ -78,6 +78,7 @@ This is how you use it:
    local network attacks such as Firesheep and friends.
 
  - OR if you have MacOS and want to try the GUI version:
+
         make
         open ui-macos/Sshuttle*.app
 
